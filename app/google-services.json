@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "837300530467",
+    "firebase_url": "https://iotmorning-d5b3d.firebaseio.com",
+    "project_id": "iotmorning-d5b3d",
+    "storage_bucket": "iotmorning-d5b3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837300530467:android:f3ce7fe5b907600b",
+        "android_client_info": {
+          "package_name": "com.android.iotmorning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837300530467-1hkirdput0hfmo4110sq4rn8e4pbsfnq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMf5WWdOuljBJguzrubD1b0bsTbWfmq0Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
